@@ -1,16 +1,8 @@
-# exam
+## Main Screen
+<img width="623" height="847" alt="image" src="https://github.com/user-attachments/assets/11030f33-466d-46d0-844b-46bc61c58c88" />
 
-A new Flutter project.
 
-## Getting Started
+## Add Product
+<img width="627" height="847" alt="image" src="https://github.com/user-attachments/assets/621f4e9f-c538-4a8e-ad4b-312aee6f8989" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
